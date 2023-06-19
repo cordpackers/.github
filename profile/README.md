@@ -2,7 +2,7 @@
 ## About
 Modulo is a Discord open source reimplementation and research project.
 
-Check out [CordArchive](https://github.com/cordarchive)
+Check out [CordArchive](https://github.com/cordarchive) and [(New name impending)](https://github.com/harmonyclient)!
 
 ## Repositories
 | Repository | Description |

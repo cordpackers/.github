@@ -1,8 +1,8 @@
-# Modulo
+# CordPackers
 ## About
-Modulo is a Discord open source reimplementation and research project.
+CordPackers is a Discord desktop client open source reimplementation project
 
-Check out [CordArchive](https://github.com/cordarchive) and [(New name impending)](https://github.com/harmonyclient)!
+Check out [CordArchive](https://github.com/cordarchive)!
 
 ## Repositories
 | Repository | Description |

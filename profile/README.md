@@ -1,6 +1,6 @@
 # CordPackers
 ## About
-CordPackers is a Discord desktop client open source reimplementation project
+CordPackers is a Discord desktop client reimplementation, patching and repacking project
 
 Check out [CordArchive](https://github.com/cordarchive)!
 

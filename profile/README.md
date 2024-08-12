@@ -9,5 +9,5 @@ Check out [CordArchive](https://github.com/cordarchive)!
 | :--- | :--- |
 | [Legacery](https://github.com/modulocord/legacery) | Translating v10 responses to earlier versions (v2-v9) |
 | [reUpdater](https://github.com/modulocord/reUpdater) | Open source `updater.node` replacement |
-| [Wumple](https://github.com/cordpackers/Wumpdle) | Discord Update API server emulator |
+| [Wumpdle](https://github.com/cordpackers/Wumpdle) | Discord Update API server emulator |
 

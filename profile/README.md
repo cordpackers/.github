@@ -3,7 +3,7 @@
 CordPackers is a Discord desktop client reimplementation, patching and repacking project.
 
 Friends of CordPackers (or project that uses CordPackers):
-- [OldCord](https://oldcordapp.com) (I contribute this everything in this project to it for the Oldcord Client, go check it out!)
+- [Oldcord](https://oldcordapp.com) (I contribute this project to Oldcord for the Oldcord Client, go check it out!)
 
 Check out [CordArchive](https://github.com/cordarchive)!
 

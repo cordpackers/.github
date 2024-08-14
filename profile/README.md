@@ -10,7 +10,7 @@ Check out [CordArchive](https://github.com/cordarchive)!
 ## Repositories
 | Repository | Description |
 | :--- | :--- |
-| [rePacker](https://github.com/cordpackers/reUpdater) | Package up patched app.asar into an installer |
+| [rePacker](https://github.com/cordpackers/rePacker) | Package up patched app.asar into an installer |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Open source `updater.node` replacement |
 | [Wumpdle](https://github.com/cordpackers/Wumpdle) | Discord Update API server emulator |
 

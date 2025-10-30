@@ -12,5 +12,5 @@ Check out [CordArchive](https://github.com/cordarchive)!
 | :--- | :--- |
 | [rePacker](https://github.com/cordpackers/rePacker) | Package up patched app.asar into an installer |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Open source `updater.node` replacement |
-| [Wumpdle](https://github.com/cordpackers/Wumpdle) | Discord Update API server emulator |
+| [WumpdleV2](https://github.com/cordpackers/WumpdleV2) | A Sheltupdate fork for repackaged Discord clients |
 
